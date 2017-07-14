@@ -1,1 +1,1 @@
-This is the test repo test cloudOps Automation
+This is the test repo to test cloudOps Automation
